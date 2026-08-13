@@ -8,9 +8,6 @@ The project transforms raw transactional data into an interactive business dashb
 
 The dashboard is designed to provide management with a quick overview of sales performance and operational delivery metrics, helping identify top-performing products, sales platforms, high-value areas, and delivery performance.
 
-## 📊 Dashboard Preview
-<img width="1857" height="700" alt="Dashboard" src="https://github.com/user-attachments/assets/2341d37c-533a-47cd-b399-453b50d107db" />
-
 ---
 
 ## 🎯 Business Objective
@@ -274,29 +271,7 @@ The dashboard highlights several important business observations:
 
 ## 📷 Dashboard Preview
 
-![MISUO Dashboard](Screenshots/dashboard.png)
-
----
-
-## 📁 Project Structure
-
-```text
-MISUO-Sales-Delivery-Dashboard/
-│
-├── README.md
-│
-├── Dashboard/
-│   └── MISUO_Dashboard.xlsx
-│
-├── Screenshots/
-│   ├── dashboard.png
-│   ├── pivot_tables.png
-│   └── data_sample.png
-│
-└── Data/
-    └── sample_data.xlsx
-```
-
+<img width="1857" height="700" alt="Dashboard" src="https://github.com/user-attachments/assets/2341d37c-533a-47cd-b399-453b50d107db" />
 ---
 
 ## 📌 Notes
